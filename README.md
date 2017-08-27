@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Po-Jen/robotic-teacher-papers.png?label=ready&title=Ready)](https://waffle.io/Po-Jen/robotic-teacher-papers?utm_source=badge)
 # robot-teacher-papers
 
 Robot teacher is able to answer questions, and enlighten people. This repository stores thoughts on related papers for building a robot teacher.
