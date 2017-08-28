@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/Po-Jen/robotic-teacher-papers.png?label=ready&title=Ready)](https://waffle.io/Po-Jen/robotic-teacher-papers?utm_source=badge)
+
 # robot-teacher-papers
 
 Robot teacher is able to answer questions, and enlighten people. This repository stores thoughts on related papers for building a robot teacher.
@@ -9,3 +10,9 @@ Robot teacher is able to answer questions, and enlighten people. This repository
 - Observation (To observe a person's action)
 - Understanding (To determine a person's state)
 - Teaching (To enlighten people)
+
+## Style
+
+- file name: year-paper_name.md
+
+  * 2016-iser-towards-learning-to-perceive-and-reason-about-liquids.md
