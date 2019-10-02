@@ -15,3 +15,12 @@ Robot tutor is able to answer questions, convey wisdom and enlighten people. Thi
 ## Systematic notes
 
 - [My gitbook on Robot Tutor](https://legacy.gitbook.com/book/po-jen/robot-tutor/details)
+
+## Progress
+
+- [ROBOT TUTOR](https://bold.expert/tag/robot-tutor/)
+
+## Companies
+
+- [SambaNova Systems](https://sambanova.ai)
+- [Embodied Inc.](https://www.embodied.me)
